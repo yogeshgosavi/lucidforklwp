@@ -198,16 +198,7 @@
     "downloadable": true,
     "copyright": "CreativeCommons Attribution-ShareALike",
 	"thumb":"https://raw.githubusercontent.com/yogeshgosavi/lucidforklwp/main/thumb/wall4.jpg"
-  },
-  {
-    "name": "Mercedes wheel",
-    "author": "Vitor Pinto",
-    "url": "https://raw.githubusercontent.com/yogeshgosavi/lucidforklwp/main/walls/wall10.jpg",
-    "downloadable": true,
-    "copyright": "CreativeCommons Attribution-ShareALike",
-	"thumb":"https://raw.githubusercontent.com/yogeshgosavi/lucidforklwp/main/thumb/wall10.jpg"
-  },
-  {
+  },{
     "name": "gradient clouds",
     "author": "Jesus Ruiz",
     "url": "https://raw.githubusercontent.com/yogeshgosavi/lucidforklwp/main/walls/wall15.png",
